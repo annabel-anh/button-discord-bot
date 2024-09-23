@@ -1,8 +1,7 @@
 # Discord Bot Command Deployer
 
-This project is a command deployer for a Discord bot using the `discord.js` library. It allows users to check the 
-local weather information, send text messages and emails, and
-stream music remotely.
+A handy Discord bot that lets users check local weather, send text messages and emails, generate lorem ipsum, 
+dad jokes, and stream music remotely.
 
 ## Technologies
 
